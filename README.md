@@ -1,6 +1,6 @@
 # Version-Controlled-Student-Management-System-
 
- ##Technologies
+ ## Technologies
  C#, .NET Windows Forms, Git, File I/O 
 
  ##Overview
