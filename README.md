@@ -3,7 +3,7 @@
  ## Technologies
  C#, .NET Windows Forms, Git, File I/O 
 
- ##Overview
+ ## Overview
  Built a desktop application supporting full CRUD operations on student records, with automated summary reports and validation. Used GitHub for version control and project collaboration.
 
 ## Team Members:
